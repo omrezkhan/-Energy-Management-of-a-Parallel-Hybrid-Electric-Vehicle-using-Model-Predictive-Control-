@@ -19,9 +19,11 @@ QSS_TB_Seminar/Examples/Seminar
             .Your main files are here
              1.Initial_Data.mat
              2.MPC_Implementation_omrez.m (Open and intially run the Matlab script file to create a MPC Object,
-             Update this path to where 'Initial_Data.mat' is located after cloning the repository
+             Update this path to where 'Initial_Data.mat' is located after cloning the repository in Matlab script accordingly
               load('F:\A_rptu\summer\seminar in electromobility\code\omrez\QSS_TB_Seminar\Examples\Seminar\Initial_Data.m'))
-             3.qss_hybrid_electric_vehicle_template1.mdl ( open and start simulate run option in  the simulink file to 
-             visualize the MPC working)
+             3.qss_hybrid_electric_vehicle_template1.mdl ( open the simulink file  and run the simulation  in  to visualize 
+              the MPC working and Electric Vehicle driving )
+             4. Report__Yadav___Paul___Saini___Khan_.pdf ( Report of our project work )
+
 
 
