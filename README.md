@@ -5,7 +5,7 @@
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/omrezkhan/QSS_TB_Seminar.git
+git clone https://github.com/omrezkhan/-Energy-Management-of-a-Parallel-Hybrid-Electric-Vehicle-using-Model-Predictive-Control-
 
 2. unzip the folder and open the folder QSS_TB_Seminar.
 
