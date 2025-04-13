@@ -2,6 +2,7 @@
 %% MPC Implementation
 clc
 clear all
+% Change the file path below to match the location of 'Initial_Data.mat' on your syste
 load('F:\A_rptu\summer\seminar in electromobility\code\omrez\QSS_TB_Seminar\Examples\Seminar\Initial_Data.mat')
 
 

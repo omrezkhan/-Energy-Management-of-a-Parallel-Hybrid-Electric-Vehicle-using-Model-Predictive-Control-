@@ -1,8 +1,7 @@
 # Ignore everything
 *
 
-# But do not ignore these!
+# But do not ignore these
 !.gitignore
 !QSS_TB_Seminar/
-
-
+!QSS_TB_Seminar/**/*
